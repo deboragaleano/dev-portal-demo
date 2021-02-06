@@ -4,29 +4,22 @@
         <title>DHIS2 Developer Portal Blog</title>
         <link>https://deboragaleano.github.io/blog</link>
         <description>DHIS2 Developer Portal Blog</description>
-        <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2020 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Welcome]]></title>
-            <link>https://deboragaleano.github.io/dev-portal-demo/blog/welcome</link>
-            <guid>welcome</guid>
-            <pubDate>Thu, 30 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Blog features are powered by the blog plugin. Simply add files to the blog directory. It supports tags as well!]]></description>
+            <title><![CDATA[SameSite Cookie Policies and DHIS2 Applications]]></title>
+            <link>https://deboragaleano.github.io/dev-portal-demo/blog/cross-origin-cookies</link>
+            <guid>cross-origin-cookies</guid>
+            <pubDate>Mon, 10 Aug 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[As of mid-July 2020, the Chrome (and Chromium) stable release channel has started to disable cross-site cookies by default. Mozilla Firefox has pushed this change to their beta channel and will likely release it to the stable channel soon. This change affects any DHIS2 application running on a different domain than the DHIS2 server instance, including applications running on localhost in development. It does not affect cross-site API requests which use Basic or OAuth authentication headers, as those do not rely on cookies for authentication.]]></description>
         </item>
         <item>
-            <title><![CDATA[Hello]]></title>
-            <link>https://deboragaleano.github.io/dev-portal-demo/blog/hello-world</link>
-            <guid>hello-world</guid>
-            <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Welcome to this blog. This blog is created with Docusaurus 2 alpha.]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Hola]]></title>
-            <link>https://deboragaleano.github.io/dev-portal-demo/blog/hola</link>
-            <guid>hola</guid>
-            <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
+            <title><![CDATA[ui 5 release]]></title>
+            <link>https://deboragaleano.github.io/dev-portal-demo/blog/ui-5-release</link>
+            <guid>ui-5-release</guid>
+            <pubDate>Thu, 28 May 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[We've recently released @dhis2/ui version 5. It unifies ui-core, ui-widgets and ui-forms to simplify the user experience and allow for some architectural changes. In this post we'll go through the most important changes to try and help you with the upgrading process. To view a complete list of all the changes see the changelog.]]></description>
         </item>
     </channel>
 </rss>

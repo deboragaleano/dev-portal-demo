@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{71:function(e){e.exports=JSON.parse('{"allTagsPath":"/dev-portal-demo/blog/tags","slug":"ui-widgets","name":"ui-widgets","count":1,"permalink":"/dev-portal-demo/blog/tags/ui-widgets"}')}}]);
