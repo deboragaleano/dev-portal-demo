@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{89:function(o){o.exports=JSON.parse('{"allTagsPath":"/dev-portal-demo/blog/tags","slug":"ui-core","name":"ui-core","count":1,"permalink":"/dev-portal-demo/blog/tags/ui-core"}')}}]);

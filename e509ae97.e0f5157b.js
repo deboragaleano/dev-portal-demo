@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[35],{104:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"SameSite Cookie Policies and DHIS2 Applications","permalink":"/dev-portal-demo/blog/cross-origin-cookies"},{"title":"ui 5 release","permalink":"/dev-portal-demo/blog/ui-5-release"}]}')}}]);

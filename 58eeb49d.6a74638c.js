@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{82:function(o){o.exports=JSON.parse('{"allTagsPath":"/dev-portal-demo/blog/tags","slug":"developer-tools","name":"developer tools","count":1,"permalink":"/dev-portal-demo/blog/tags/developer-tools"}')}}]);
